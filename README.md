@@ -124,7 +124,7 @@ The web app allows:
 
 ## 👩‍💻 Contributors
 
-- **Supriya [@your-github-handle]**
+- **Supriya [github.com/Supriya-Burla]**
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
