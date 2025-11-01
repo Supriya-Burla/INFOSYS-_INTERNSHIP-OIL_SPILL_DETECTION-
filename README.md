@@ -22,7 +22,7 @@ Oil-Spill-Detection/
 
 ## 🚀 Features
 
-- 🧠 **Deep Learning Segmentation Model** (U-Net / CNN)  
+- 🧠 **Deep Learning Segmentation Model** (U-Net )  
 - 🛰️ **Satellite Image Processing** using OpenCV & NumPy  
 - 📊 **Training Visualization** (loss, accuracy, Dice coefficient)  
 - 🌐 **Web Deployment with Streamlit** (upload, predict, and view masks)  
@@ -33,7 +33,7 @@ Oil-Spill-Detection/
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/Oil-Spill-Detection.git
+git clone https://github.com/<Supriya-Burla>/Oil-Spill-Detection.git
 cd Oil-Spill-Detection
 ```
 
